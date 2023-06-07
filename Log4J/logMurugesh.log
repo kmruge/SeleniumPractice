@@ -1,0 +1,6 @@
+2023-03-05 15:52:49,860 +0530 [main] INFO  (Log4JClass.java:18) - URL opening
+2023-03-05 15:52:49,865 +0530 [main] INFO  (Log4JClass.java:19) - Opening URL
+2023-03-06 19:00:59,984 +0530 [main] INFO  (Log4JClass.java:18) - URL opening
+2023-03-06 19:00:59,989 +0530 [main] INFO  (Log4JClass.java:19) - org.apache.log4j.Logger@6c6017b9
+2023-03-06 19:02:02,107 +0530 [main] INFO  (Log4JClass.java:18) - URL opening
+2023-03-06 19:02:02,112 +0530 [main] INFO  (Log4JClass.java:19) - org.apache.log4j.Logger@7ff35a3f
